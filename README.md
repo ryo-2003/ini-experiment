@@ -1,2 +1,3 @@
 # ini-experiment
-Ini cuma buat percobaan saja.
+
+This one is an experiment.
