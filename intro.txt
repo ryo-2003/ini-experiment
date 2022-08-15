@@ -1,1 +1,2 @@
-Hai, saya sedang mencoba GitHub.
+- Hai, saya sedang mencoba GitHub.
+- Ini kedua kalinya saya membuka file ini.
