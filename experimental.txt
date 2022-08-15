@@ -1,0 +1,7 @@
+let experimental = {
+  "name" : "Experimental",
+  "version" : 2,
+  "date" : "Saturday, 20-09-2003"
+}
+
+console.log(experimental.version);
